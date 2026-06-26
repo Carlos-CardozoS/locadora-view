@@ -2,6 +2,18 @@
 
 Este repositório contém a camada de interface gráfica (view) do projeto Senacflix. O foco deste módulo é proporcionar uma experiência intuitiva para o gerenciamento de locações, utilizando Java Swing e conexão com o banco de dados via JDBC.
 
+
+## 📸 Visual do Sistema
+
+| Login | Menu Principal |
+| :---: | :---: |
+| ![Login](assets/tela_login.png) | ![Menu](assets/tela_menu.png) |
+
+| Listagem de Filmes | Cadastro de Filmes |
+| :---: | :---: |
+| ![Listar](assets/tela_listar.png) | ![Cadastro](assets/tela_cadastro.png) |
+
+
 ## 🎨 Destaques da Interface
 Dashboard Intuitivo: Navegação simplificada entre cadastro de filmes, clientes e registros de locação.
 
@@ -11,6 +23,7 @@ Design Responsivo (Desktop): Layout organizado para facilitar a visualização d
 
 Feedback ao Usuário: Notificações visuais para sucesso ou erro em operações (CRUD).
 
+
 ## 🛠️ Ferramentas e Tecnologias
 Linguagem: Java (JDK 11+)
 
@@ -19,6 +32,7 @@ Interface: Java Swing (Biblioteca nativa)
 Conectividade: JDBC (Java Database Connectivity)
 
 IDE: Apache NetBeans
+
 
 ## 🚀 Como configurar e rodar
 Clone este repositório:
