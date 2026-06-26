@@ -1,4 +1,4 @@
-🖥️ SENACFLIX - INTERFACE DE LOCAÇÃO (JDBC)
+# - 🖥️ SENACFLIX - INTERFACE DE LOCAÇÃO (JDBC) - 
 Este repositório contém a camada de interface gráfica (view) do projeto Senacflix. O foco deste módulo é proporcionar uma experiência intuitiva para o gerenciamento de locações, utilizando Java Swing e conexão com o banco de dados via JDBC.
 🎨 Destaques da Interface
 Dashboard Intuitivo: Navegação simplificada entre cadastro de filmes, clientes e registros de locação.
